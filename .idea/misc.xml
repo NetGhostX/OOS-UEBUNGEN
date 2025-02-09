@@ -8,10 +8,12 @@
         <option value="$PROJECT_DIR$/untitled/pom.xml" />
         <option value="$PROJECT_DIR$/unitTest/pom.xml" />
         <option value="$PROJECT_DIR$/unitest_Practice/pom.xml" />
+        <option value="$PROJECT_DIR$/LambdaExpression/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/LambdaExpression/pom.xml" />
         <option value="$PROJECT_DIR$/untitled/pom.xml" />
       </set>
     </option>

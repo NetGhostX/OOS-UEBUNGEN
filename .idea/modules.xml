@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpression/LambdaExpression.iml" filepath="$PROJECT_DIR$/LambdaExpression/LambdaExpression.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOS.iml" filepath="$PROJECT_DIR$/OOS.iml" />
       <module fileurl="file://$PROJECT_DIR$/basics-practice/deserialisation/deserialisation.iml" filepath="$PROJECT_DIR$/basics-practice/deserialisation/deserialisation.iml" />
       <module fileurl="file://$PROJECT_DIR$/basics-practice/serialisation/serialisation.iml" filepath="$PROJECT_DIR$/basics-practice/serialisation/serialisation.iml" />
