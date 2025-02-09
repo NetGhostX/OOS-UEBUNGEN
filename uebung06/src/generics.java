@@ -15,7 +15,7 @@ public class generics {
 
         numbers.forEach(System.out::println);
 
-        System.out.println("Increasing each number by 1");
+        System.out.println("Incrementing each number by 1");
 
         numbers.forEach(number->{int increased = number +1;
             System.out.println(increased);});
