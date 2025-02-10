@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/LambdaExpression/LambdaExpression.iml" filepath="$PROJECT_DIR$/LambdaExpression/LambdaExpression.iml" />
       <module fileurl="file://$PROJECT_DIR$/Multithreading/Multithreading.iml" filepath="$PROJECT_DIR$/Multithreading/Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeAdapterPattern/PracticeAdapterPattern.iml" filepath="$PROJECT_DIR$/PracticeAdapterPattern/PracticeAdapterPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonPracticed/SingletonPracticed.iml" filepath="$PROJECT_DIR$/SingletonPracticed/SingletonPracticed.iml" />
       <module fileurl="file://$PROJECT_DIR$/basics-practice/deserialisation/deserialisation.iml" filepath="$PROJECT_DIR$/basics-practice/deserialisation/deserialisation.iml" />
       <module fileurl="file://$PROJECT_DIR$/basics-practice/serialisation/serialisation.iml" filepath="$PROJECT_DIR$/basics-practice/serialisation/serialisation.iml" />
